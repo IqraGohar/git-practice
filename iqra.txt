@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 thisis line from the main branch.
+=======
+Hello Git from VS Code!
+this is a new feature !
+>>>>>>> my-branch
